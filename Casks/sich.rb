@@ -2,7 +2,7 @@ cask "sich" do
   version "0.4.0"
   sha256 "0000000000000000000000000000000000000000000000000000000000000000"
 
-  url "https://github.com/roman-romanov-o/sich/releases/download/v#{version}/Sich-v#{version}-universal.dmg"
+  url "https://github.com/roman-romanov-o/sich/releases/download/v#{version}/Sich-universal.dmg"
   name "Sich"
   desc "Kanban board where every card is a live Claude Code or Codex terminal"
   homepage "https://github.com/roman-romanov-o/sich"
