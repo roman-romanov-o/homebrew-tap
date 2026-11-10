@@ -1,6 +1,6 @@
 cask "sich" do
   version "0.4.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "6ebf1dca383b8cccdc276f304f58784cc32067b448aace1312c0bf3fc3339683"
 
   url "https://github.com/roman-romanov-o/sich/releases/download/v#{version}/Sich-universal.dmg"
   name "Sich"
